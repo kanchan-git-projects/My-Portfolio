@@ -6,7 +6,7 @@ import { MdClose } from "react-icons/md";
 const ProjectCard: FunctionComponent<{
   project: IProject;
 }> = ({
-  project: { name, image_path, category, description, github_url, key_techs },
+  project: { name, image_path, description, github_url, key_techs },
 }) => {
   const [showDetail, setShowDetail] = useState(false);
 
