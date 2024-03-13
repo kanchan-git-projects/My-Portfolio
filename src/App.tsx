@@ -1,10 +1,10 @@
-import Sidebar from "../components/Sidebar";
-import Navbar from "../components/Navbar";
+import Sidebar from "./components/Sidebar";
+import Navbar from "./components/Navbar";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import About from "../components/About";
-import Myprojects from "../components/Myprojects";
-import Myresume from "../components/Myresume";
+import About from "./components/About";
+import Myprojects from "./components/Myprojects";
+import Myresume from "./components/Myresume";
 
 const App = () => {
   return (
