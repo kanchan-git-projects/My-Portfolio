@@ -100,7 +100,7 @@ export const projects: IProject[] = [
   {
     name: "Estate Dashboard",
     description: "Estate Dashboard Front-End Project",
-    image_path: "../Images/React-Dashboard.png",
+    image_path: "https://i.ibb.co/HrC9v3j/React-Dashboard.png",
     github_url: "https://kanchan-git-projects.github.io/Estate-Dashboard/",
     category: ["ReactJS"],
     key_techs: ["React"],
@@ -108,7 +108,7 @@ export const projects: IProject[] = [
   {
     name: "Pet Shop",
     description: "Pet Shop Front-End Project",
-    image_path: "../Images/Pet-Shop.png",
+    image_path: "https://i.ibb.co/nwy11hG/Pet-Shop.png",
     github_url: "https://kanchan-git-projects.github.io/Happy-Pets-Shop/",
     category: ["Bootstrap"],
     key_techs: ["Bootstrap"],
@@ -116,7 +116,7 @@ export const projects: IProject[] = [
   {
     name: "Number Game",
     description: "Guess the number game",
-    image_path: "../Images/Number-Game.png",
+    image_path: "https://i.ibb.co/dQfY1D4/Number-Game.png",
     github_url: "https://kanchan-git-projects.github.io/Number-Guess-Game/",
     category: ["JavaScript"],
     key_techs: ["JavaScript"],
