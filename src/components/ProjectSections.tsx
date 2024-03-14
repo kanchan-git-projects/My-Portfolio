@@ -7,7 +7,7 @@ const ProjectSections = () => {
       <nav> All Projects</nav>
       <div className="relative grid grid-cols-12 gap-4 my-3">
         {projects.map((project) => (
-          <div className="col-span-3 p-2 bg-gray-300 rounded-lg sm:col-span-6 lg:col-span-4">
+          <div className="col-span-3 p-2 bg-gray-300 rounded-lg sm:col-span-12 md:col-span-6 lg:col-span-4">
             <ProjectCard project={project} key={project.name} />
           </div>
         ))}
