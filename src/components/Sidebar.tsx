@@ -10,7 +10,7 @@ const Sidebar = () => {
   return (
     <div>
       <img
-        src="../Images/profile-pic.jpg"
+        src="https://i.ibb.co/N9WyFFx/profile-pic.jpg"
         className="w-32 h-32 mx-auto rounded-full"
       />
       <h3 className="my-4 text-2xl font-medium tracking-wider kaushan-script-regular ">
