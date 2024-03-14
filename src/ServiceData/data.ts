@@ -46,7 +46,7 @@ export const languages: ISkill[] = [
   },
   {
     name: "React.js",
-    level: "70%",
+    level: "60%",
     Icon: BsCircleFill,
   },
   {
@@ -55,11 +55,11 @@ export const languages: ISkill[] = [
     Icon: BsCircleFill,
   },
 
-  // {
-  //   name: "Angular",
-  //   level: "60%",
-  //   Icon: BsCircleFill,
-  // },
+  {
+    name: "Angular",
+    level: "70%",
+    Icon: BsCircleFill,
+  },
   {
     name: "Node.js",
     level: "60%",
@@ -86,7 +86,7 @@ export const tools: ITools[] = [
   },
   {
     name: "Framer Motion",
-    level: "50%",
+    level: "60%",
     Icon: BsCircleFill,
   },
   // {
